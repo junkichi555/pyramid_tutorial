@@ -1,0 +1,5 @@
+      [paste.app_factory]
+      main = tutorial_alchemy:main
+      [console_scripts]
+      initialize_tutorial_alchemy_db = tutorial_alchemy.scripts.initializedb:main
+      
